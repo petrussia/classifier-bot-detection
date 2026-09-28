@@ -1,0 +1,39 @@
+{
+  "baseline": "original antibot_solution.zip; feature source matched GitHub blob SHAs before refactoring",
+  "cookies_checked": 16000,
+  "base_feature_count": 364,
+  "extra_feature_count": 329,
+  "metadata_exact_match": true,
+  "base_features_exact_match": true,
+  "extra_features_exact_match": true,
+  "saved_model_predictions_exact_match": true,
+  "submission_sha256": "7e85915d437f9ba0795158ab6125f5ff34a800667f6abb5925af665fa4dc2f7e",
+  "ensemble_holdout_metrics_exact_match": true,
+  "all_holdout_metrics_match_atol_1e_14": true,
+  "baseline_threshold_abs_difference": 6.938893903907228e-18,
+  "holdout_precision_at_recall_ge_0_70": 0.8071428571428572,
+  "holdout_recall_at_selected_threshold": 0.70625,
+  "unit_tests_passed": 7,
+  "retrained_submission_exact_match": true,
+  "reference_submission_unchanged": true,
+  "notebook_executed_without_errors": true,
+  "notebook_executed_code_cells": 8,
+  "python": "3.13.5",
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "scikit-learn": "1.8.0",
+    "catboost": "1.2.8",
+    "lightgbm": "4.6.0"
+  },
+  "source_sha256": {
+    "features.py": "47b06ebc539b20392630aaf31251000a4441fb9b66e0e450ee6375f976161efe",
+    "features_extra.py": "6ef8a2f8b146ac9ecfb0eb7ef7a7fcbbcf22e4c1dfe9cc79416611423f340616",
+    "solution.py": "f7bdea08693f6df1f164578a8088715e1fa9833d698526513c6034b7fd306215",
+    "metric.py": "89cacc04345c1c5af5ea74dc3dcb2642887b2b587158d595f9e995fe7109b8f8",
+    "tests.py": "4eb1b6555b17889d544391318cacfa71a826fad2ec18ad6353974928ac7566fa",
+    "final_config.json": "0d971d8b199f16a41d184ca8db0c5b99cfd530dadd402c6b17b24355321a722f",
+    "requirements.txt": "7bd95c69c8a6d0f0f1889977b81a959e94821e8803b8f9add4548316d870a906"
+  }
+}

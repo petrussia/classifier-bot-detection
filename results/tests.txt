@@ -1,0 +1,12 @@
+test_boundaries_duplicates_and_grain (__main__.FeatureTests.test_boundaries_duplicates_and_grain) ... ok
+test_cookie_identifiers_do_not_affect_features (__main__.FeatureTests.test_cookie_identifiers_do_not_affect_features) ... ok
+test_invariance_to_future_events_and_labels (__main__.FeatureTests.test_invariance_to_future_events_and_labels) ... ok
+test_against_independent_brute_force (__main__.MetricTests.test_against_independent_brute_force) ... ok
+test_official_examples_and_ties (__main__.MetricTests.test_official_examples_and_ties) ... ok
+test_reject_invalid_rows_or_scores (__main__.SubmissionTests.test_reject_invalid_rows_or_scores) ... ok
+test_valid_format (__main__.SubmissionTests.test_valid_format) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.535s
+
+OK
